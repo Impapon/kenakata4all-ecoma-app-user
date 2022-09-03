@@ -1,10 +1,8 @@
-
 import 'package:flutter/material.dart';
 import 'package:flutter_easyloading/flutter_easyloading.dart';
 import 'package:provider/provider.dart';
 import 'package:simple_ecom_user/auth/auth_service.dart';
 import 'package:simple_ecom_user/providers/user_provider.dart';
-
 import '../models/address_model.dart';
 
 class UserAddressPage extends StatefulWidget {
